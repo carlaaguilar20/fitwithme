@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background-image: url(./img/fondo.jpg);
+    background-size: contain;
+}
+
+h1{
+    margin: auto;
+    padding: 20px;
+    background-color: sandybrown;
+    text-align: center;
+}
+img{
+    width: 100px;
+}
