@@ -24,3 +24,7 @@ while (x <=2){
         alert ("Cuida mejor tu salud; incorpora ejercicio de fuerza diario , mejora tu alimentacion y ve al doctor🧑‍⚕️ ")
     }
 }
+let planes = [
+    { id: 1 , nombre: "plan basico" , rutaImagen: planBasico.jpg },
+    { id: 2 , nombre: "plan Medio" , rutaImagen: planMedio.jpeg },
+ ]
